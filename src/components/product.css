@@ -1,0 +1,37 @@
+.pro-container {
+  border: 5px solid rgb(155, 155, 155);
+}
+
+.heading {
+  text-align: center;
+}
+
+.productDesc {
+  background-color: rgb(155, 155, 155);
+  margin: 2rem;
+  padding: 2rem;
+  color: white;
+  display: flex;
+}
+.qty {
+  display: flex;
+}
+.quanity {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.quanity {
+  background-color: rgb(12, 15, 15);
+}
+span {
+  margin: 1em;
+}
+.productdetails {
+  margin-right: 20em;
+}
+.btn {
+  cursor: pointer;
+}
+.parentctn {
+  display: flex;
+}

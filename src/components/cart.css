@@ -1,0 +1,13 @@
+.cart-ctn {
+  border: 5px solid lightgray;
+  height: 100%;
+}
+.crt-h {
+  text-align: center;
+}
+
+.cartsumm {
+  background-color: lightgray;
+  padding: 2em;
+  margin: 1em;
+}
